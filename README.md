@@ -4,7 +4,7 @@ The OHSU Data Science Institute will bring together researchers, librarians, and
 - Increase confidence with using data science techniques.
 -	Increase the ability of participants to use or apply data science techniques in problems outlined in the course
 
-A tentative schedule is available at: https://ohsulibrary-datascienceinstitute.github.io/#schedule
+The schedule is available at: https://ohsulibrary-datascienceinstitute.github.io/#schedule
 
 All of the teaching materials will be made openly available with a CC-BY license.
 
